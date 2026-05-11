@@ -1,4 +1,4 @@
-# Skills
+# Waza (技)
 
 ## Quickstart
 
