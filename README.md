@@ -5,5 +5,5 @@
 ## Quickstart
 
 ```shell
-npx skills@latest add koji/skills
+npx skills@latest add koji/waza
 ```
